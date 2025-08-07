@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Aditya Daryata! 👋
 
-<!--
-**daryataadit/daryataadit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang pelajar yang tertarik dengan dunia teknologi dan pemrograman.  
+Saat ini sedang belajar GitHub, Python, dan pengembangan web.
 
-Here are some ideas to get you started:
+## 🔭 Proyek yang sedang saya kerjakan
+- Website sederhana untuk tugas sekolah
+- Belajar pemrograman Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sedang belajar
+- Dasar-dasar Git & GitHub
+- Python & HTML/CSS
+- Kolaborasi open source
+- 
+## ⚡ Fun fact
+Saya suka tantangan dan suka mencoba hal baru!
